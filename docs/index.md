@@ -1,5 +1,8 @@
-## Demo
+---
+home: true
+title: Home Page
+heroImage: /avatar-1-rounded.png
+footer: Copyright © 2022-present Arno Solo
+---
 
-#### Hello
-
-![img](./assets/a3bd832e3f52ffe815a58160e636b4d97bc2fe49.jpg)
+### [Learn iOS Development](https://arnosolo.github.io/learn-ios-development)
