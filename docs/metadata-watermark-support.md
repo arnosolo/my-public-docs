@@ -12,4 +12,4 @@ Metadata Watermark App can add a footer on a photo. The footer contains some met
 
 If you have any questions or issues with our Metadata Watermark App, please don't hesitate to contact our support team. We are always here to help and are committed to providing you with the best possible experience. Thank you for choosing our app!
 
-<a href = "mailto: shan_huang_apple_dev_2@outlook.com">Click this text to send an email to the app developer.</a>
+Email <a href = "mailto: shan_huang_apple_dev_2@outlook.com">shan_huang_apple_dev_2@outlook.com</a>
