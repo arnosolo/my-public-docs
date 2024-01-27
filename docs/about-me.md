@@ -46,5 +46,5 @@ I have 2 years of experience in frontend development, where I've had the opportu
 
 ## Others
 
-- The starting point for my web development journey: [Coding Challenge #3: The Snake Game by The Coding Train](https://youtu.be/AaGK-fj-BAM?si=SSr5bNt-NjuQ7Ez6)
+- The starting point of my web development journey: [Coding Challenge #3: The Snake Game by The Coding Train](https://youtu.be/AaGK-fj-BAM?si=SSr5bNt-NjuQ7Ez6)
 - My first js project: [Oversimplified Gravity Simulator](https://arnosolo.github.io/oversimplified_gravity_simulator/)
