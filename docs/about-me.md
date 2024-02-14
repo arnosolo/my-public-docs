@@ -50,7 +50,7 @@ I have 2 years of experience in frontend development, where I've had the opportu
 - Ionic
   - [Compose AI](https://apps.apple.com/us/app/compose-ai-writing-assistant/id6449922415) is an AI powered writing assistant.
 
-## Others
+## Others Projects
 
 - The starting point of my web development journey is a youtube video created by The Coding Train called [Coding Challenge #3: The Snake Game](https://youtu.be/AaGK-fj-BAM?si=SSr5bNt-NjuQ7Ez6). Basically, this video taught you how to create a simple snake game. Through this video I found drawing on a canvas was fun, so I reproduced some works according to some other similar videos, and created something similar like this one: [Oversimplified Gravity Simulator](https://arnosolo.github.io/oversimplified_gravity_simulator/). Basically, some small balls are drawn on a canvas, and they are attracted by each other. During the time of writing this project, some buttons for adjusting parameters need to be drawn, and I found my way of drawing the GUI clumsy. So I started learning frontend frameworks like vue, react. This helped me landing my first frontend job.
 - Another interest of mine was embedded software like [building firmware of a 3D printer](https://arnosolo.github.io/simple-3d-printer). It was fun, unfortunately I could not find a related job, so I was not able to make progress in this area.
