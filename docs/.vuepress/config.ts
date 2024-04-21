@@ -24,6 +24,11 @@ export default defineUserConfig({
       title: 'Arno\'s blog',
       description: '#Web #iOS #Ionic',
     },
+    '/zh-TW': {
+      lang: 'zh-TW',
+      title: 'Arno的博客',
+      description: '#Web #iOS #Ionic',
+    },
   },
   plugins: [
     registerComponentsPlugin({
