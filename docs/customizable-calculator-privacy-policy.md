@@ -1,12 +1,13 @@
 ---
-title: Privacy Policy for Customizable Calculator
+title: Privacy Policy for Big Yellow Calculator
 lang: en-US
-description: Privacy Policy for Customizable Calculator
+description: Privacy Policy for Big Yellow Calculator
+app_name: Big Yellow Calculator
 ---
 
 # {{ $frontmatter.title }}
 
-We, the developers of the Customizable Calculator, are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose your personal information in relation to our App.
+We, the developers of the {{ $frontmatter.app_name }}, are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose your personal information in relation to our App.
 
 Collection of Personal Information:
 We do not collect any personal information from our users. The App does not require any login or registration, and we do not track or record any user data.
