@@ -1,14 +1,28 @@
 ---
-home: true
-title: Home Page
-heroImage: /avatar-1-rounded.png
-footer: Copyright © 2022-present Arno Solo
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "Arno's blog"
+  # text: "#Web #iOS"
+  # tagline: My great project tagline
+  # actions:
+  #   - theme: brand
+  #     text: Markdown Examples
+  #     link: /markdown-examples
+  #   - theme: alt
+  #     text: API Examples
+  #     link: /api-examples
+
+features:
+  - title: About me
+    details: Arno is a web developer
+    link: ./about-me
+  - title: iOS
+    details: Some articles about iOS development
+    link: https://arnosolo.github.io/learn-ios-development
+  - title: Web
+    details: Some articles about Web development
+    link: https://arnosolo.github.io/learn-web-development
 ---
 
-### [About me](./about-me)
-
-### [Learn iOS development](https://arnosolo.github.io/learn-ios-development)
-
-### [Learn Web development](https://arnosolo.github.io/learn-web-development)
-
-### 
