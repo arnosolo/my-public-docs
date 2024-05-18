@@ -9,4 +9,6 @@ footer: Copyright © 2022-present Arno Solo
 
 ### [Learn iOS development](https://arnosolo.github.io/learn-ios-development)
 
+### [Learn Web development](https://arnosolo.github.io/learn-web-development)
+
 ### 
