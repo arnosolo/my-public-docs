@@ -2,10 +2,6 @@
 
 https://github.com/arnosolo/blog
 
-#### Deploy page
-
-https://arnosolo.github.io/blog/
-
 #### Dev
 
 1. Install deps
@@ -20,4 +16,5 @@ https://arnosolo.github.io/blog/
 
 #### Deploy
 
-Each git push will trigger an `Github Action` which will automatically build and publish static dist files (js, html, css)
+Build and publish by `Github Action` when `origin/main` branch changes.
+Deploy page -> https://arnosolo.github.io/blog/
