@@ -5,6 +5,7 @@ export default defineConfig({
   base: '/blog/',
   title: "Arno's blog",
   description: "#Web #iOS",
+  head: [['link', { rel: 'icon', href: '/blog/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/big-yellow.svg',
