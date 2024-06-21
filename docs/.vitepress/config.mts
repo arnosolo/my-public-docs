@@ -3,8 +3,6 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/blog/',
-  title: "Arno's blog",
-  description: "#Web #iOS",
   head: [['link', { rel: 'icon', href: '/blog/big-yellow.svg' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -26,5 +24,18 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
-  }
+  },
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en',
+      title: "Arno's blog",
+    },
+    // zh: {
+    //   label: '简体中文',
+    //   lang: 'zh-CN',
+    //   link: '/zh/',
+    //   title: '阿诺的博客',
+    // }
+  },
 })

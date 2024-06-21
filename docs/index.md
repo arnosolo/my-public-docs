@@ -18,11 +18,11 @@ features:
   - title: About me
     details: Arno is a web developer
     link: ./about-me
-  - title: iOS
-    details: Some articles about iOS development
-    link: https://arnosolo.github.io/learn-ios-development
   - title: Web
     details: Some articles about Web development
     link: https://arnosolo.github.io/learn-web-development
+  - title: iOS
+    details: Some articles about iOS development
+    link: https://arnosolo.github.io/learn-ios-development
 ---
 
