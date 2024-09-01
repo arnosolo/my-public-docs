@@ -24,8 +24,8 @@ features:
   # - title: iOS
   #   details: Some articles about iOS development
   #   link: https://arnosolo.github.io/learn-ios-development
-  # - title: Embedded System
-  #   details: Some articles about Embedded System
-  #   link: https://arnosolo.github.io/learn-embedded-system
+  - title: Embedded System
+    details: Some articles about Embedded System
+    link: https://arnosolo.github.io/learn-embedded-system
 ---
 
