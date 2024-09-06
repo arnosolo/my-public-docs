@@ -15,9 +15,12 @@ hero:
   #     link: /api-examples
 
 features:
-  - title: About me
-    details: Arno is a web developer
-    link: ./about-me
+  - title: Arno - Frontend Developer
+    details: Resume, HR please take a look
+    link: ./resume
+  # - title: About me
+  #   details: Arno is a web developer
+  #   link: ./about-me
   - title: Web
     details: Some articles about Web development
     link: https://arnosolo.github.io/learn-web-development
