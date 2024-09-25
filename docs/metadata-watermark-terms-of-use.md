@@ -51,7 +51,3 @@ HUANG SHAN reserves the right to modify or replace these Terms of Use at any tim
 - Name: HUANG SHAN
 - Address: JinHua, ZheJiang, China
 - Email: shan_huang_apple_dev_2@outlook.com
-
-10. Third Party Terms of Agreement
-
-- [RevenueCat](https://www.revenuecat.com/terms)
