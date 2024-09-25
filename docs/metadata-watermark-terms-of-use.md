@@ -1,14 +1,14 @@
 ---
-title: Terms of Use for Shutter Stamp
+title: Terms of Use for Metadata Stamp
 lang: en-US
-description: Terms of Use for Shutter Stamp
+description: Terms of Use for Metadata Stamp
 ---
 
 # {{ $frontmatter.title }}
 
 1. Acceptance of Terms
 
-By downloading, installing, or using the Shutter Stamp App ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.
+By downloading, installing, or using the Metadata Stamp App ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.
 
 2. License
 

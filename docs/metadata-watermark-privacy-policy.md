@@ -1,12 +1,12 @@
 ---
-title: Privacy Policy for Shutter Stamp
+title: Privacy Policy for Metadata Stamp
 lang: en-US
-description: Privacy Policy for Shutter Stamp
+description: Privacy Policy for Metadata Stamp
 ---
 
 # {{ $frontmatter.title }}
 
-We, the developers of the Shutter Stamp, are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose your personal information in relation to our App.
+We, the developers of the Metadata Stamp, are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose your personal information in relation to our App.
 
 ### Collection of Personal Information
 
