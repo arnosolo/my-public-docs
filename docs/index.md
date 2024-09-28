@@ -15,20 +15,28 @@ hero:
   #     link: /api-examples
 
 features:
-  - title: Arno - Frontend Developer
-    details: Resume, HR please take a look
-    link: ./resume
-  # - title: About me
-  #   details: Arno is a web developer
-  #   link: ./about-me
+  - title: Products
+    icon:
+      src: ./assets/ri--app-store-line.svg
+    details: Products created by Arno
+    link: ./products-created-by-arno-solo
   - title: Web
+    icon:
+      src: ./assets/ri--compass-line.svg
     details: Some articles about Web development
     link: https://arnosolo.github.io/learn-web-development
   - title: iOS
+    icon:
+      src: ./assets/ri--apple-fill.svg
     details: Some articles about iOS development
     link: https://arnosolo.github.io/learn-ios-development
-  - title: Embedded System
+  - title: Embedded system
+    icon:
+      src: ./assets/ri--cpu-line.svg
     details: Some articles about Embedded System
     link: https://arnosolo.github.io/learn-embedded-system
+  - title: Arno - Frontend Developer
+    details: Resume
+    link: ./resume
 ---
 
