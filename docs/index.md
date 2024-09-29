@@ -27,12 +27,18 @@ features:
     link: https://arnosolo.github.io/learn-web-development
   - title: iOS
     icon:
-      src: ./assets/ri--apple-fill.svg
+      light:
+        src: ./assets/ri--apple-fill.svg
+      dark:
+        src: ./assets/ri--apple-fill-dark.svg
     details: Some articles about iOS development
     link: https://arnosolo.github.io/learn-ios-development
   - title: Embedded system
     icon:
-      src: ./assets/ri--cpu-line.svg
+      light:
+        src: ./assets/ri--cpu-line.svg
+      dark:
+        src: ./assets/ri--cpu-line-dark.svg
     details: Some articles about Embedded System
     link: https://arnosolo.github.io/learn-embedded-system
   - title: Arno - Frontend Developer
