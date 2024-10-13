@@ -10,7 +10,9 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
     ],
-
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/arnosolo/' }
+    ],
     // sidebar: [
     //   {
     //     text: 'Examples',
@@ -20,10 +22,18 @@ export default defineConfig({
     //     ]
     //   }
     // ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/arnosolo/' }
-    ]
+    // sidebar: {
+    //   '/products/': [
+    //     {
+    //       text: 'Guide',
+    //       items: [
+    //         { text: 'Index', link: '/products/' },
+    //         { text: 'One', link: '/products/one' },
+    //         { text: 'Two', link: '/products/two' }
+    //       ]
+    //     }
+    //   ],
+    // }
   },
   locales: {
     root: {

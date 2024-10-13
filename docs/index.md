@@ -19,7 +19,7 @@ features:
     icon:
       src: /images/ri--app-store-line.svg
     details: Products created by Arno
-    link: ./products-created-by-arno-solo
+    link: ./products
   - title: Web
     icon:
       src: /images/ri--compass-line.svg
