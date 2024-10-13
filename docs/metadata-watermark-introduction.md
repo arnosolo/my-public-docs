@@ -8,7 +8,7 @@ description: Metadata Stamp is an iOS App that can add a footer on a photo. The 
 
 <p />
 
-<img src="./assets/metadata-app-icon.png" style="width: 128px; border-radius: 24px;">
+<img src="/images/metadata-app-icon.png" style="width: 128px; border-radius: 24px;">
 
 {{ $frontmatter.description }}
 

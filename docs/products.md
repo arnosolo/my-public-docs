@@ -18,12 +18,12 @@ hero:
 features:
   - title: Big Yellow Exif Editor
     icon:
-      src: ./assets/exif-editor-app-icon.png
+      src: /images/exif-editor-app-icon.png
     # details: iOS
     link: ./exif-editor-introduction
   - title: Metadata Stamp
     icon:
-      src: /assets/metadata-app-icon.png
+      src: /images/metadata-app-icon.png
     # details: Some articles about Web development
     link: ./metadata-watermark-introduction
 ---

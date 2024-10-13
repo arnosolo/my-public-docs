@@ -8,7 +8,7 @@ description:  Big Yellow Exif Editor is an iOS App that allows you to edit or re
 
 <p />
 
-<img src="./assets/exif-editor-app-icon.png" style="width: 128px; border-radius: 24px;">
+<img src="/images/exif-editor-app-icon.png" style="width: 128px; border-radius: 24px;">
 
 {{ $frontmatter.description }}
 
