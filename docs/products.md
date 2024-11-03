@@ -16,6 +16,11 @@ hero:
   #     link: /api-examples
 
 features:
+  - title: Big Yellow Music Player
+    icon:
+      src: /images/music-player-app-icon.jpg
+    # details: iOS
+    link: ./big-yellow-music-player-introduction
   - title: Big Yellow Exif Editor
     icon:
       src: /images/exif-editor-app-icon.png
