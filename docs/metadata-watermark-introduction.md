@@ -1,7 +1,7 @@
 ---
 title: Metadata Stamp
 lang: en-US
-description: Metadata Stamp is an iOS App that can add a footer on a photo. The footer contains some metadata items of the photo such as logo of camera maker, camera model, focal length, F number, exposure time, ISO.
+description: Metadata Stamp is an iOS App that can add a timestamp on a photo. The footer contains some metadata items of the photo such as logo of camera maker, camera model, focal length, F number, exposure time, ISO.
 ---
 
 # {{ $frontmatter.title }}
