@@ -18,7 +18,7 @@ hero:
 features:
   - title: Big Yellow Music Player
     icon:
-      src: /images/music-player-app-icon.jpg
+      src: /images/big-yellow-music-player-app-icon.jpg
     # details: iOS
     link: ./big-yellow-music-player-introduction
   - title: Big Yellow Exif Editor

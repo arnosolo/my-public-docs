@@ -1,7 +1,7 @@
 ---
 title: Big Yellow Music Player
 lang: en-US
-description: Welcome to Big Yellow Music Player, the vibrant and intuitive music app designed to bring your favorite tunes to life! With its bright, engaging interface and powerful features, Big Yellow Music Player makes listening to your music more enjoyable than ever.
+description: Big Yellow Music Player is an iOS offline music player that can change theme.
 ---
 
 # {{ $frontmatter.title }}
